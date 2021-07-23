@@ -1,6 +1,6 @@
 # Python 3零基础入门
 
-Python完整课程购买链接：https://www.udemy.com/course/python3-chinese/?referralCode=47E6E4492ED7893DB0BE
+Python完整课程: https://www.youtube.com/playlist?list=PLwO1Ou6RaKN7ynBdEoJBI1mnbBq-vFwic
 
 * 第一章 课程介绍
 * 第二章 基本数据类型
